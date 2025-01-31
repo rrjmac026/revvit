@@ -1,0 +1,580 @@
+
+
+=== Debug Log 2024-12-04 02:30:13 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 17,
+    "average_score": "38.235294"
+}
+
+
+=== Debug Log 2024-12-04 02:30:26 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 18,
+    "average_score": "41.666667"
+}
+
+
+=== Debug Log 2024-12-04 02:30:27 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 18,
+    "average_score": "41.666667"
+}
+
+
+=== Debug Log 2024-12-04 02:30:47 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 19,
+    "average_score": "42.982632"
+}
+
+
+=== Debug Log 2024-12-04 02:30:49 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 19,
+    "average_score": "42.982632"
+}
+
+
+=== Debug Log 2024-12-04 02:30:54 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 19,
+    "average_score": "42.982632"
+}
+
+
+=== Debug Log 2024-12-04 02:31:04 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 19,
+    "average_score": "42.982632"
+}
+
+
+=== Debug Log 2024-12-04 02:31:10 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 19,
+    "average_score": "42.982632"
+}
+
+
+=== Debug Log 2024-12-04 02:31:34 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 20,
+    "average_score": "44.167000"
+}
+
+
+=== Debug Log 2024-12-04 02:32:34 ===
+User ID: 1
+{
+    "attempt_id": 7,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 6,
+    "subject_id": 1,
+    "score_percentage": "20.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 3,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 4,
+    "subject_id": 1,
+    "score_percentage": "30.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+{
+    "attempt_id": 2,
+    "subject_id": 1,
+    "score_percentage": "50.00",
+    "course_id": 1,
+    "course_title": "PHP Fundamentals",
+    "course_status": "In Progress",
+    "course_progress": "50.00"
+}
+
+Final Statistics:
+{
+    "enrolled_courses": 1,
+    "completed_courses": "0",
+    "in_progress_courses": "1",
+    "total_quiz_attempts": 20,
+    "average_score": "44.167000"
+}
